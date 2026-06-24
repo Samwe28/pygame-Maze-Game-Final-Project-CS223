@@ -20,5 +20,30 @@ Make sure Python is installed on your computer.
 
 Install Pygame:
 
-```bash
+bash
 pip install pygame
+
+## Run the game:
+python maze_main.py
+
+## Controls
+Player 1
+W - Move up
+A - Move left
+S - Move down
+D - Move right
+Player 2
+Arrow keys - Move
+## Other Controls
+1 - Start one-player mode
+2 - Start two-player mode
+3 - Start AI race mode
+ESC - Quit the game
+
+## Project Purpose
+This project was created for a programming class to demonstrate Python programming concepts such as variables, functions, loops, conditionals, lists, tuples, dictionaries, file processing, exception handling, modules, and object-oriented programming.
+## Requirements
+pygame
+
+## Author
+Sam Woller
